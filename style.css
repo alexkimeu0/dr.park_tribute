@@ -131,12 +131,12 @@ header h1 {
 .author-wrapper .card img {
     width: 100px;
     height: 100px;
-    padding: .3rem;
+    padding: .1rem;
     margin: 1rem 0;
 }
 
 .card p {
-    margin: .3rem 0;
+    margin: .2rem 0;
     text-align: center;
 }
 
@@ -149,6 +149,10 @@ header h1 {
 /* Gallery */
 .gallery {
     background: #dfe6e9;
+}
+
+.gallery span {
+    text-align: center;
 }
 
 .gallery-wrapper {
